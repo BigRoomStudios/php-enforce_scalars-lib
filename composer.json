@@ -1,0 +1,21 @@
+{
+    "name": "thebeline/php-funcparams-lib",
+    "description": "Function Parameter Helpers.",
+	"type": "library",
+    "keywords": ["functions","utilities","parameters"],
+    "homepage": "https://github.com/thebeline/php-funcparams-lib",
+    "license": "MIT",
+	"support": {
+		"issues": "https://github.com/thebeline/php-funcparams-lib/issues",
+		"source": "https://github.com/thebeline/php-funcparams-lib/"
+	},
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": {
+            "src/enforce_scalars.function.php",
+            "src/fill_defaults.function.php"
+        }
+    }
+}
