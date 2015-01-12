@@ -1,21 +1,20 @@
 {
-    "name": "thebeline/php-funcparams-lib",
-    "description": "Function Parameter Helpers.",
+    "name": "thebeline/php-enforce_scalars-lib",
+    "description": "Enforce the Scalar types of an array of values.",
 	"type": "library",
-    "keywords": ["functions","utilities","parameters"],
-    "homepage": "https://github.com/thebeline/php-funcparams-lib",
+    "keywords": ["functions","utilities","parameters","type-hinting","scalar"],
+    "homepage": "https://github.com/thebeline/php-enforce_scalars-lib",
     "license": "MIT",
 	"support": {
-		"issues": "https://github.com/thebeline/php-funcparams-lib/issues",
-		"source": "https://github.com/thebeline/php-funcparams-lib/"
+		"issues": "https://github.com/thebeline/php-enforce_scalars-lib/issues",
+		"source": "https://github.com/thebeline/php-enforce_scalars-lib/"
 	},
     "require": {
         "php": ">=5.3.0"
     },
     "autoload": {
         "files": {
-            "src/enforce_scalars.function.php",
-            "src/fill_defaults.function.php"
+            "src/enforce_scalars.function.php"
         }
     }
 }
