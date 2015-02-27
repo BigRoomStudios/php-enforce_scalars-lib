@@ -1,13 +1,13 @@
 {
-    "name": "thebeline/php-enforce_scalars-lib",
+    "name": "BigRoomStudios/php-enforce_scalars-lib",
     "description": "Enforce the Scalar types of an array of values.",
 	"type": "library",
     "keywords": ["functions","utilities","parameters","type-hinting","scalar"],
-    "homepage": "https://github.com/thebeline/php-enforce_scalars-lib",
+    "homepage": "https://github.com/BigRoomStudios/php-enforce_scalars-lib",
     "license": "MIT",
 	"support": {
-		"issues": "https://github.com/thebeline/php-enforce_scalars-lib/issues",
-		"source": "https://github.com/thebeline/php-enforce_scalars-lib/"
+		"issues": "https://github.com/BigRoomStudios/php-enforce_scalars-lib/issues",
+		"source": "https://github.com/BigRoomStudios/php-enforce_scalars-lib/"
 	},
     "require": {
         "php": ">=5.3.0"
